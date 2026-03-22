@@ -10,4 +10,4 @@ Ollama не имеет собственного GUI, предоставляя п
 [[Ollama - Get Started]]
 
 
-#LM #Описание #Ollama
+#LLM #Описание #Ollama

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Ollama/Ollama - Get Started.md",
+                "file": "docs/LM Studio/LM Studio - Get Started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ollama - Get Started"
+              "title": "LM Studio - Get Started"
             }
           }
         ]
@@ -183,9 +183,15 @@
   },
   "active": "e89f960937577893",
   "lastOpenFiles": [
-    "Без названия.base",
+    "docs/LM Studio/LM Studio.md",
+    "docs/LM Studio/LM Studio - Get Started.md",
+    "docs/LLM (Large Language Model).md",
     "docs/Ollama/Ollama - Get Started.md",
     "docs/Ollama/Ollama.md",
+    "Без названия.canvas",
+    "docs/LM Studio",
+    "README.md",
+    "Без названия.base",
     "docs/Ollama",
     "resources/Источники.md",
     "resources",
