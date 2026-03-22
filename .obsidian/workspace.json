@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80a38aeb4eb64e9b",
+        "id": "bd2b4c20ffea72f2",
         "type": "tabs",
         "children": [
           {
-            "id": "e89f960937577893",
+            "id": "876bfc55469ff53f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LM Studio/LM Studio - Get Started.md",
+                "file": "docs/Развертывание LLM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LM Studio - Get Started"
+              "title": "Развертывание LLM"
             }
           }
         ]
@@ -181,19 +181,34 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e89f960937577893",
+  "active": "876bfc55469ff53f",
   "lastOpenFiles": [
-    "docs/LM Studio/LM Studio.md",
     "docs/LM Studio/LM Studio - Get Started.md",
-    "docs/LLM (Large Language Model).md",
     "docs/Ollama/Ollama - Get Started.md",
     "docs/Ollama/Ollama.md",
+    "docs/LM Studio/LM Studio.md",
+    "docs/Развертывание LLM.md",
+    "other/OpenWebUI.md",
+    "other/Docker.md",
+    "other/Без названия.md",
+    "other/Kuberneties.md",
+    "other/Квантизация.md",
+    "resources/Источники.md",
+    "other/VirtualBox.md",
+    "8.md",
+    "9.md",
+    "other/Память.md",
+    "other/Итераторы.md",
+    "other/Фосагро.md",
+    "other/SOLID.md",
+    "other/Windows или Linux.md",
+    "other",
+    "docs/LLM (Large Language Model).md",
     "Без названия.canvas",
     "docs/LM Studio",
     "README.md",
     "Без названия.base",
     "docs/Ollama",
-    "resources/Источники.md",
     "resources",
     "docs",
     "Добро пожаловать.md"

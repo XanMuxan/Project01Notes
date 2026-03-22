@@ -1,5 +1,5 @@
 # Quickstart
-[[Ollama]] доступна на macOS, Windows и Linux. [Загрузить Ollama](https://ollama.com/download)
+[[Ollama]] доступна на macOS, Windows и Linux. [Загрузить Ollama](https://ollama.com/download). Установка через терминал
 
 # Get Started
 Запустите ollama в своём терминале чтобы открыть интерактивное меню:
@@ -40,7 +40,7 @@ ollama launch opencode
 Используйте [API](https://docs.ollama.com/api) для интеграции [[Ollama]] в ваши приложения:
 
 ```
-curl http://localhost:11434/api/chat -d '{
+curl http://127.0.0.1:11434/api/chat -d '{
   "model": "gemma3",
   "messages": [{ "role": "user", "content": "Hello!" }]
 }'
