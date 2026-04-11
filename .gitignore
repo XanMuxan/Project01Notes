@@ -1,0 +1,15 @@
+# Ignore workspace layout (major source of merge conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore cache and temporary data
+.obsidian/cache/
+.obsidian/graph.json
+.trash/
+
+# Optional: Ignore all local settings if you want a clean start on each device
+.obsidian/
+
+# Optional: Ignore large plugin data (e.g., Copilot or Smart Connections indices)
+.obsidian/plugins/copilot/index/
+.smart-connections/

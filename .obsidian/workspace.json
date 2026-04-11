@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LLM/Ollama/Ollama + OpenWebUI.md",
+                "file": "other/ТАИФЯ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ollama + OpenWebUI"
+              "title": "ТАИФЯ"
             }
           }
         ],
@@ -198,24 +198,30 @@
   },
   "active": "257476ee84041c81",
   "lastOpenFiles": [
-    "docs/LLM/Развертывание LLM.md",
-    "resources/_pics/OpenWebUI_localhost.png",
+    "Текстовый документ.txt",
+    "docs/SQL",
+    "docs/Проект.md",
+    "other/Фосагро.md",
+    "other/Docker.md",
+    "other/Kuberneties.md",
+    "other/OpenWebUI.md",
     "docs/LLM/Ollama/Ollama + OpenWebUI.md",
-    "resources/_pics",
+    "docs/LLM/Развертывание LLM.md",
+    "docs/LLM/LLM (Large Language Model).md",
+    "resources/_pics/OpenWebUI_localhost.png",
+    "other/ТАИФЯ.md",
     "docs/LLM/Ollama/Ollama - Get Started.md",
+    "docs/LLM/Ollama/Ollama.md",
+    "other/Python.md",
+    "resources/_pics",
     "resources/Источники.md",
     "README.md",
-    "docs/LLM/Ollama/Ollama.md",
     "docs/LLM",
     "Без названия 1.base",
     "Без названия.base",
-    "other/Фосагро.md",
     "docs/LLM/LM Studio/LM Studio - Get Started.md",
     "docs/LLM/LM Studio/LM Studio.md",
-    "other/OpenWebUI.md",
-    "other/Docker.md",
     "other/Без названия.md",
-    "other/Kuberneties.md",
     "other/Квантизация.md",
     "other/VirtualBox.md",
     "8.md",
@@ -225,12 +231,10 @@
     "other/SOLID.md",
     "other/Windows или Linux.md",
     "other",
-    "docs/LLM/LLM (Large Language Model).md",
     "Без названия.canvas",
     "docs/LLM/LM Studio",
     "docs/LLM/Ollama",
     "resources",
-    "docs",
-    "Добро пожаловать.md"
+    "docs"
   ]
 }
